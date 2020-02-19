@@ -1,16 +1,16 @@
 
-Potsdam Commentary Corpus 2.1
+Potsdam Commentary Corpus 2.2
 =============================
 
-The Potsdam Commentary Corpus 2.0 (PCC 2.0) is a revised and extended version
-of the Potsdam Commentary Corpus (Stede 2004), a collection of 175 German
+The Potsdam Commentary Corpus 2.2 (PCC 2.2) is a revised and extended version
+of the Potsdam Commentary Corpus (Stede 2004), a collection of 176 German
 newspaper commentaries (op-ed pieces) that has been annotated with syntax trees
 and three layers of discourse-level information: nominal coreference,
 connectives and their arguments (similar to the PDTB, Prasad et al. 2008), and
 trees reflecting discourse structure according to Rhetorical Structure Theory
 (Mann/Thompson 1988).
 
-Connectives have been annotated with the help of a semi-automatic tool, Conano
+Connectives have been annotated with the help of a semi-automatic tool, Connanno
 (Stede/Heintze 2004), which identifies most connectives and suggests arguments
 based on their syntactic category. The other layers have been created manually
 with dedicated annotation tools.
@@ -19,7 +19,7 @@ with dedicated annotation tools.
 License
 -------
 
-The Potsdam Commentary Corpus 2.0 is released under a Creative Commons
+The Potsdam Commentary Corpus 2.2 is released under a Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License. You can find a
 human-readable summary of the licence agreement here:
 
@@ -28,30 +28,29 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/
 If you are using our corpus for research purposes, please cite the following
 paper:
 
-Stede, M. and Neumann, A. (2014). Potsdam Commentary Corpus 2.0:
-Annotation for Discourse Research. Proc. of the Language Resources and
-Evaluation Conference (LREC), Reykjavik.
+Bourgonje, P and Stede, M (2020). The Potsdam Commentary Corpus 2.2: 
+Extending Annotations for Shallow Discourse Parsing. Proc. of the Language 
+Resources and Evaluation Conference (LREC), Marseille.
 
-@InProceedings{stede2014pcc,
-  author = {Manfred Stede and Arne Neumann},
-  title = {Potsdam Commentary Corpus 2.0: Annotation for Discourse Research},
-  booktitle = {Proceedings of the Ninth International Conference on Language
-               Resources and Evaluation (LREC'14)},
-  year = {2014},
-  month = {may},
-  date = {26-31},
-  address = {Reykjavik, Iceland},
-  publisher = {European Language Resources Association (ELRA)},
-  isbn = {978-2-9517408-8-4},
-  language = {english}
-} 
+@inproceedings{bourgonje-stede-lrec2020,
+    author = "Bourgonje, Peter and Stede, Manfred",
+    title = "The Potsdam Commentary Corpus 2.2: Extending Annotations for Shallow Discourse Parsing",
+    booktitle = "Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020) (to appear)",
+    year = "2020",
+    date = "11-16",
+    month = "May",
+    location = "Marseille, France",
+    publisher = "European Language Resources Association (ELRA)",
+    address = "Paris, France",
+    keywords = ""
+}
+
 
 
 Corpus Directory Layout
 -----------------------
 .
-├── connectors		connectors and their arguments, annotated with Conano
-│			(Stede and Heintze 2004) in Conano XML format
+├── connectives		coherence relations following the PDTB2 (Prasad et al. 2008) definition in standoff XML format
 │
 ├── coreference		coreference, annotated with MMAX2 (Müller and Strube 2006)
 │   │                   in MMAX2 XML format
@@ -75,8 +74,20 @@ Corpus Directory Layout
 └── tokenized		tokenized documents in plain text UTF-8
 
 
+
 Version History
 ---------------
+2.2 (2020-20-02)
+~~~~~~~~~~~~~~~~~~
+
+Version 2.2 extends/updates the PCC 2.1 as follows:
+- The layer of connectives and their arguments, first introduced in the 2.0 version, is extended
+by annotating them for senses, in line the with PDTB3.0 sense hierarchy.
+- The additional relation types (taken from the PDTB2.0) of 'implicit', 'AltLex', 'EntRel' and 'NoRel'
+have been annotated.
+- Due to new annotations for implicits, the Conano XML format has disappeared from this release
+and only the standoff XML format is available.
+- Minor inconsistencies and errors from earlier versions have been corrected.
 
 2.1.0 (2018-08-13)
 ~~~~~~~~~~~~~~~~~~
@@ -98,7 +109,10 @@ University of Zurich. The parses were made available by Don Tuggener.
 (Zurich). Singleton markables have been removed, and the data is
 converted to conll format
 --- connectives-standoff: a standoff version of the inline XML format that conanno outputs. The annotations in this and connectives (inline format) are identical, the only thing different is the XML format.
-
+For more details on the 2.1 version, see:
+Peter Bourgonje and Manfred Stede. The Potsdam Commentary Corpus 2.1 in ANNIS3. 
+In Proceedings of the 17th International Workshop on Treebanks and Linguistic Theory. 
+Oslo, Norway, 2018
 
 2.0.0 (2014-06-24)
 ~~~~~~~~~~~~~~~~~~
