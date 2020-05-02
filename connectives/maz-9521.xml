@@ -517,7 +517,7 @@
     </relation>
     <relation relation_id="15" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="188" token="Nein"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="102" token="davon"/>

@@ -580,7 +580,7 @@
     </relation>
     <relation relation_id="18" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="153" token="Jetzt"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="138" token="Mit"/>

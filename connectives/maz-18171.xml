@@ -710,7 +710,8 @@
     </relation>
     <relation relation_id="25" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="109" token="Nun"/>
+	<connective_token id="110" token="gut"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="79" token="Dass"/>

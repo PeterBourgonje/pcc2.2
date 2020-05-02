@@ -600,7 +600,8 @@
     </relation>
     <relation relation_id="30" pdtb3_sense="Contingency.Cause.Reason" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="101" token="Auch"/>
+	<connective_token id="102" token="weil"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="82" token="Sie"/>

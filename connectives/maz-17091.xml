@@ -272,7 +272,14 @@
     </relation>
     <relation relation_id="10" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="26" token="Noch"/>
+	<connective_token id="27" token="vor"/>
+	<connective_token id="28" token="dem"/>
+	<connective_token id="29" token="endgültigen"/>
+	<connective_token id="30" token="Abzug"/>
+	<connective_token id="31" token="der"/>
+	<connective_token id="32" token="russischen"/>
+	<connective_token id="33" token="Armee"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="18" token="Firmenchef"/>
@@ -477,7 +484,9 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Contingency.Cause.Result" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="128" token="Die"/>
+	<connective_token id="129" token="Folgen"/>
+	<connective_token id="130" token="sind"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="114" token="Für"/>

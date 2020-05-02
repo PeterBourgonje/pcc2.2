@@ -587,7 +587,8 @@
     </relation>
     <relation relation_id="20" pdtb3_sense="Expansion.Substitution.Arg2-as-subst" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="64" token="Mehr"/>
+	<connective_token id="65" token="noch"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="53" token="Besonders"/>

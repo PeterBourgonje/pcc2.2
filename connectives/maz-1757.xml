@@ -446,7 +446,9 @@
     </relation>
     <relation relation_id="7" pdtb3_sense="Expansion.Instantiation.Arg2-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="122" token="Das"/>
+	<connective_token id="123" token="gilt"/>
+	<connective_token id="124" token="besonders"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="111" token="In"/>
@@ -498,7 +500,7 @@
     </relation>
     <relation relation_id="8" pdtb3_sense="Expansion.Instantiation.Arg1-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="154" token="Letztere"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="122" token="Das"/>

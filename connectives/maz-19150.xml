@@ -520,7 +520,7 @@
     </relation>
     <relation relation_id="21" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="65" token="nun"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="52" token="Stadt"/>

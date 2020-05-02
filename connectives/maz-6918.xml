@@ -313,7 +313,8 @@
     </relation>
     <relation relation_id="6" pdtb3_sense="Expansion.Manner.Arg1-as-manner" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="78" token="Das"/>
+	<connective_token id="79" token="wäre"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="65" token="Um"/>
@@ -433,7 +434,8 @@
     </relation>
     <relation relation_id="9" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="168" token="Wie"/>
+	<connective_token id="169" token="gesagt"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="142" token="Ob"/>

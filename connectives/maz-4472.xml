@@ -388,9 +388,9 @@
         <int_arg_token id="52" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="18" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="AltLex">
+    <relation relation_id="18" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="93" token="Zwar"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="53" token="Abgesehen"/>
@@ -450,7 +450,9 @@
     </relation>
     <relation relation_id="19" pdtb3_sense="Temporal.Synchronous" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="164" token="Seit"/>
+	<connective_token id="165" token="einem"/>
+	<connective_token id="166" token="Jahr"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="143" token="Wofür"/>

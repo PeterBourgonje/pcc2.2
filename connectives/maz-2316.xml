@@ -542,7 +542,8 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Expansion.Instantiation.Arg2-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="93" token="Zum"/>
+	<connective_token id="94" token="Beweis"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="56" token="Dass"/>

@@ -480,7 +480,9 @@
     </relation>
     <relation relation_id="15" pdtb3_sense="Contingency.Cause.Reason" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="8" token="Aus"/>
+	<connective_token id="9" token="taktischen"/>
+	<connective_token id="10" token="Gründen"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="3" token="Die"/>

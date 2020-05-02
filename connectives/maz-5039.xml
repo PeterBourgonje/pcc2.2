@@ -367,7 +367,11 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="28" token="Denen"/>
+	<connective_token id="29" token="muss"/>
+	<connective_token id="30" token="es"/>
+	<connective_token id="31" token="offenbar"/>
+	<connective_token id="32" token="imponieren"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="12" token="Angst"/>

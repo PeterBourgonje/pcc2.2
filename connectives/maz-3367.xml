@@ -387,9 +387,9 @@
         <int_arg_token id="24" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="17" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="17" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
-        <implicit_connective/>
+	<implicit_connective/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="15" token="Die"/>
@@ -417,7 +417,7 @@
         <int_arg_token id="35" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="18" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="18" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -444,7 +444,7 @@
         <int_arg_token id="42" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="19" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="19" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -472,7 +472,7 @@
         <int_arg_token id="54" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="20" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="20" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>

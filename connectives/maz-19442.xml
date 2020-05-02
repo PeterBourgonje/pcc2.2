@@ -388,7 +388,8 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Expansion.Instantiation.Arg2-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="33" token="Vor"/>
+	<connective_token id="34" token="allem"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="13" token="Manche"/>
@@ -489,7 +490,10 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Expansion.Substitution.Arg2-as-subst" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="101" token="Besser"/>
+	<connective_token id="102" token="wäre"/>
+	<connective_token id="103" token="es"/>
+	
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="96" token="Beispielsweise"/>

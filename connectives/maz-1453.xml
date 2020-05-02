@@ -420,7 +420,8 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Expansion.Conjunction" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="103" token="Punkt"/>
+	<connective_token id="104" token="zwei"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="92" token="Nach"/>
@@ -509,7 +510,7 @@
     </relation>
     <relation relation_id="14" pdtb3_sense="Expansion.Conjunction" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="148" token="drittens"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="123" token="Die"/>

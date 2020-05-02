@@ -410,7 +410,9 @@
     </relation>
     <relation relation_id="21" pdtb3_sense="Contingency.Cause.Result" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="84" token="sind"/>
+	<connective_token id="85" token="die"/>
+	<connective_token id="86" token="Folge"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="64" token="Mit"/>

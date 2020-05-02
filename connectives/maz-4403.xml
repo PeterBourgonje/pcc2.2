@@ -412,7 +412,8 @@
     </relation>
     <relation relation_id="10" pdtb3_sense="Contingency.Cause.Result" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="40" token="So"/>
+	<connective_token id="41" token="betrachtet"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="8" token="Am"/>

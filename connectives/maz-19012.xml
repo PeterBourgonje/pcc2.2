@@ -681,7 +681,7 @@
     </relation>
     <relation relation_id="19" pdtb3_sense="Expansion.Instantiation.Arg2-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="127" token="Selbst"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="116" token="In"/>
@@ -717,7 +717,7 @@
     </relation>
     <relation relation_id="20" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	  <connective_token id="144" token="wiederum"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="127" token="Selbst"/>

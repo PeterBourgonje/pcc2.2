@@ -373,7 +373,9 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="23" token="Nach"/>
+	<connective_token id="24" token="einem"/>
+	<connective_token id="25" token="Jahr"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="5" token="Rüdiger"/>

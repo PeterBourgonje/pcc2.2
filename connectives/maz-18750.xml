@@ -455,7 +455,9 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="109" token="Ganz"/>
+	<connective_token id="110" token="im"/>
+	<connective_token id="111" token="Gegenteil"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="96" token="Die"/>

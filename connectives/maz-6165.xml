@@ -601,7 +601,7 @@
     </relation>
     <relation relation_id="20" pdtb3_sense="Expansion.Conjunction" type="AltLex">
       <connective_tokens>
-        <implicit_connective>would pick dazu here, but noch makes it redundant I think</implicit_connective>
+	<connective_token id="28" token="noch"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="2" token="Am"/>

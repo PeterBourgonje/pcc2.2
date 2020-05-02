@@ -358,7 +358,8 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="14" token="Ab"/>
+	<connective_token id="15" token="heute"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="4" token="Gestern"/>

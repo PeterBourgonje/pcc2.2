@@ -503,7 +503,7 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="9" token="Eher"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="2" token="Durch"/>
@@ -585,7 +585,7 @@
     </relation>
     <relation relation_id="19" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="89" token="wiederum"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="68" token="Denn"/>

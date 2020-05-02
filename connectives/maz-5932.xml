@@ -395,7 +395,7 @@
     </relation>
     <relation relation_id="9" pdtb3_sense="Contingency.Cause.Reason" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="58" token="Hauptgrund"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="42" token="Die"/>
@@ -529,7 +529,12 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="129" token="Was"/>
+	<connective_token id="130" token="die"/>
+	<connective_token id="131" token="anderen"/>
+	<connective_token id="132" token="größeren"/>
+	<connective_token id="133" token="Gemeinden"/>
+	<connective_token id="134" token="betrifft"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="114" token="Dieses"/>

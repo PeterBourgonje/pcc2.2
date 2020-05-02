@@ -564,9 +564,9 @@
         <int_arg_token id="32" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="32" pdtb3_sense="Expansion.Instantiation.Arg1-as-instance" type="AltLex">
+    <relation relation_id="32" pdtb3_sense="Expansion.Instantiation.Arg1-as-instance" type="explicit">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="57" token="auch"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="37" token="&quot;"/>

@@ -409,7 +409,9 @@
     </relation>
     <relation relation_id="10" pdtb3_sense="Expansion.Instantiation.Arg1-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="41" token="Ein"/>
+	<connective_token id="42" token="solcher"/>
+	<connective_token id="43" token="Fall"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="23" token="Niemand"/>

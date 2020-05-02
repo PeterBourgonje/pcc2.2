@@ -508,7 +508,9 @@
     </relation>
     <relation relation_id="28" pdtb3_sense="Contingency.Cause.Result" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="110" token="Die"/>
+	<connective_token id="111" token="Folge"/>
+	<connective_token id="112" token="ist"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="76" token="Und"/>
@@ -564,7 +566,8 @@
     </relation>
     <relation relation_id="29" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="161" token="Bis"/>
+	<connective_token id="162" token="zum"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="150" token="Punktsieg"/>

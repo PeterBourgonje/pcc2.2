@@ -592,7 +592,10 @@
     </relation>
     <relation relation_id="21" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="154" token="Erst"/>
+	<connective_token id="155" token="zum"/>
+	<connective_token id="156" token="Märzbeginn"/>
+	<connective_token id="157" token="2002"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="123" token="Sieht"/>

@@ -431,7 +431,7 @@
         <int_arg_token id="31" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="16" pdtb3_sense="Contingency.Cause.Reason" type="AltLex">
+    <relation relation_id="16" pdtb3_sense="Contingency.Cause.Reason" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -565,9 +565,9 @@
         <int_arg_token id="103" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="20" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="AltLex">
+    <relation relation_id="20" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="104" token="Doch"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="88" token="Der"/>

@@ -474,7 +474,10 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Temporal.Asynchronous.Succession" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="92" token="vor"/>
+	<connective_token id="93" token="über"/>
+	<connective_token id="94" token="einem"/>
+	<connective_token id="95" token="Jahr"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="69" token="Auch"/>

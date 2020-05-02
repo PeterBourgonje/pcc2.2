@@ -601,7 +601,7 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="161" token="Nun"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="140" token="Keiner"/>

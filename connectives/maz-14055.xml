@@ -448,7 +448,8 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Temporal.Synchronous" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="120" token="noch"/>
+	<connective_token id="121" token="immer"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="95" token="Doch"/>

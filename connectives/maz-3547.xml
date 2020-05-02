@@ -392,7 +392,8 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Expansion.Exception.Arg2-as-except" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="94" token="stehen"/>
+	<connective_token id="95" token="außerhalb"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="85" token="Sie"/>
@@ -422,7 +423,8 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="136" token="Erst"/>
+	<connective_token id="137" token="recht"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="106" token="Dass"/>

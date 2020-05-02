@@ -421,7 +421,10 @@
     </relation>
     <relation relation_id="17" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="105" token="Die"/>
+	<connective_token id="106" token="einen"/>
+	<connective_token id="121" token="Die"/>
+	<connective_token id="122" token="anderen"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="105" token="Die"/>
@@ -475,7 +478,8 @@
     </relation>
     <relation relation_id="18" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="56" token="am"/>
+	<connective_token id="57" token="Ende"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="121" token="Die"/>
@@ -525,7 +529,9 @@
     </relation>
     <relation relation_id="19" pdtb3_sense="Expansion.Exception.Arg2-as-except" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="162" token="Komisch"/>
+	<connective_token id="163" token="ist"/>
+	<connective_token id="164" token="nur"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="150" token="Wie"/>

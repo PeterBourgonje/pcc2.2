@@ -697,7 +697,7 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Expansion.Conjunction" type="AltLex">
       <connective_tokens>
-        <implicit_connective>drittens</implicit_connective>
+	<connective_token id="180" token="Drittens"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="146" token="Zweitens"/>

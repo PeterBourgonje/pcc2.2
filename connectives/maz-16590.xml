@@ -314,7 +314,10 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="17" token="Als"/>
+	<connective_token id="18" token="der"/>
+	<connective_token id="19" token="Bundestag"/>
+	<connective_token id="20" token="anfang"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="4" token="Zu"/>
@@ -352,7 +355,7 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="33" token="Jetzt"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="17" token="Als"/>

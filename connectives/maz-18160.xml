@@ -534,7 +534,9 @@
     </relation>
     <relation relation_id="11" pdtb3_sense="Contingency.Cause.Reason" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="12" token="Der"/>
+	<connective_token id="13" token="Grund"/>
+	<connective_token id="14" token="ist"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="2" token="Es"/>
@@ -578,7 +580,12 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Expansion.Instantiation.Arg2-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="37" token="Ein"/>
+	<connective_token id="38" token="Alarmsignal"/>
+	<connective_token id="41" token="müsste"/>
+	<connective_token id="42" token="es"/>
+	<connective_token id="43" token="jedenfalls"/>
+	<connective_token id="44" token="sein"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="12" token="Der"/>

@@ -307,7 +307,7 @@
     </relation>
     <relation relation_id="4" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="52" token="Anfangs"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="23" token="Sah"/>

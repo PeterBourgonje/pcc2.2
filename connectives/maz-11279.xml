@@ -700,7 +700,7 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Succession" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="154" token="Damals"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="147" token="Ein"/>
@@ -729,7 +729,7 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Comparison.Contrast" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="167" token="Nun"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="154" token="Damals"/>

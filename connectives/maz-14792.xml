@@ -482,7 +482,10 @@
     </relation>
     <relation relation_id="15" pdtb3_sense="Contingency.Cause.Result" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="109" token="Wenn"/>
+	<connective_token id="110" token="das"/>
+	<connective_token id="111" token="so"/>
+	<connective_token id="112" token="ist"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="89" token="Der"/>
@@ -528,7 +531,9 @@
     </relation>
     <relation relation_id="16" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="153" token="Eben"/>
+	<connective_token id="154" token="dieses"/>
+	<connective_token id="155" token="Verwirrspiel"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="126" token="Warum"/>

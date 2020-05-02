@@ -413,7 +413,7 @@
     </relation>
     <relation relation_id="9" pdtb3_sense="Expansion.Conjunction" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="30" token="Da"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="10" token="Rund"/>

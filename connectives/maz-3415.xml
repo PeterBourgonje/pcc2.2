@@ -955,7 +955,7 @@
         <int_arg_token id="188" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="26" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="26" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -1017,7 +1017,7 @@
         <int_arg_token id="213" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="27" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="27" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -1069,7 +1069,7 @@
         <int_arg_token id="231" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="28" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="28" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>
@@ -1129,7 +1129,7 @@
         <int_arg_token id="264" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="29" pdtb3_sense="Expansion.Conjunction" type="AltLex">
+    <relation relation_id="29" pdtb3_sense="Expansion.Conjunction" type="implicit">
       <connective_tokens>
         <implicit_connective/>
       </connective_tokens>

@@ -591,7 +591,7 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="152" token="Diesmal"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="137" token="Das"/>

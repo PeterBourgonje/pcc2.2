@@ -344,7 +344,9 @@
     </relation>
     <relation relation_id="5" pdtb3_sense="Temporal.Asynchronous.Succession" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="45" token="Es"/>
+	<connective_token id="46" token="begann"/>
+	<connective_token id="47" token="damit"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="21" token="Doch"/>

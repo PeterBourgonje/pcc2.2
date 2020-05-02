@@ -581,7 +581,8 @@
     </relation>
     <relation relation_id="20" pdtb3_sense="Expansion.Instantiation.Arg1-as-instance" type="AltLex">
       <connective_tokens>
-        <implicit_connective>insbesondere</implicit_connective>
+	<connective_token id="173" token="vor"/>
+	<connective_token id="174" token="allem"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="150" token="Moderne"/>

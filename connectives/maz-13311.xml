@@ -345,7 +345,7 @@
     </relation>
     <relation relation_id="10" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="27" token="Nun"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="6" token="Das"/>

@@ -642,7 +642,7 @@
     </relation>
     <relation relation_id="15" pdtb3_sense="Expansion.Manner.Arg1-as-manner" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="92" token="So"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="81" token="Warum"/>
@@ -759,7 +759,10 @@
     </relation>
     <relation relation_id="18" pdtb3_sense="Temporal.Synchronous" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="143" token="Noch"/>
+	<connective_token id="144" token="bis"/>
+	<connective_token id="145" token="zum"/>
+	<connective_token id="146" token="Jahresende"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="120" token="Vielleicht"/>

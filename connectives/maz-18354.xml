@@ -621,7 +621,7 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Expansion.Substitution.Arg2-as-subst" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="155" token="Eher"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="147" token="Der"/>
@@ -651,7 +651,8 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="168" token="Vor"/>
+	<connective_token id="168" token="2006"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="155" token="Eher"/>
@@ -680,7 +681,7 @@
     </relation>
     <relation relation_id="14" pdtb3_sense="Expansion.Substitution.Arg2-as-subst" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="175" token="Eher"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="168" token="Vor"/>

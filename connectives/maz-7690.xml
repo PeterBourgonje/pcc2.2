@@ -345,7 +345,7 @@
     </relation>
     <relation relation_id="9" pdtb3_sense="Temporal.Asynchronous.Succession" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="23" token="Damals"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="4" token="Schlachtefest"/>

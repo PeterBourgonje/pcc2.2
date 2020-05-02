@@ -540,7 +540,8 @@
     </relation>
     <relation relation_id="20" pdtb3_sense="Expansion.Level-of-detail.Arg1-as-detail" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="154" token="Nun"/>
+	<connective_token id="155" token="gut"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="143" token="Die"/>

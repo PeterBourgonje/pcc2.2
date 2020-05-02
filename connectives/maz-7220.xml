@@ -352,7 +352,9 @@
     </relation>
     <relation relation_id="13" pdtb3_sense="Temporal.Asynchronous.Precedence" type="AltLex">
       <connective_tokens>
-        <implicit_connective/>
+	<connective_token id="32" token="nach"/>
+	<connective_token id="33" token="einiger"/>
+	<connective_token id="34" token="Bedenkzeit"/>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="5" token="Einen"/>
