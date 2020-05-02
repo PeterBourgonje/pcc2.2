@@ -701,7 +701,7 @@
     </relation>
     <relation relation_id="17" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="implicit">
       <connective_tokens>
-        <implicit_connective>ask a German which fits best here, think this should be the sense, but didn't find a fitting candidate in connective-lex</implicit_connective>
+        <implicit_connective></implicit_connective>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="100" token="Es"/>

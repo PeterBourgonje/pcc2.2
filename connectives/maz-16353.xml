@@ -588,7 +588,7 @@
     </relation>
     <relation relation_id="18" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="implicit">
       <connective_tokens>
-        <implicit_connective>doch (chck with a German; does Allein here imply that outside of Oberhavel, they do not have a good reputation? I interpreted it as such)</implicit_connective>
+        <implicit_connective></implicit_connective>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="113" token="Für"/>

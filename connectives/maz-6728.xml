@@ -427,7 +427,7 @@
     </relation>
     <relation relation_id="9" pdtb3_sense="Expansion.Level-of-detail.Arg2-as-detail" type="implicit">
       <connective_tokens>
-        <implicit_connective>cant really decide on one, ask a german, but levelofdetail seems pretty relevant</implicit_connective>
+        <implicit_connective></implicit_connective>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="91" token="In"/>

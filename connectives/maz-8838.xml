@@ -495,7 +495,7 @@
     </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Precedence" type="implicit">
       <connective_tokens>
-        <implicit_connective>not sure, ask a German</implicit_connective>
+        <implicit_connective></implicit_connective>
       </connective_tokens>
       <ext_arg_tokens>
         <ext_arg_token id="4" token="In"/>
