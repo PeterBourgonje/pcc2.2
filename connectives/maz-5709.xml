@@ -230,7 +230,7 @@
         <ext_arg_token id="71" token="."/>
       </ext_arg_tokens>
     </relation>
-    <relation relation_id="5" pdtb3_sense="Comparison.Contrast" type="explicit">
+    <relation relation_id="5" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
       <connective_tokens>
         <connective_token id="72" token="Dabei"/>
       </connective_tokens>

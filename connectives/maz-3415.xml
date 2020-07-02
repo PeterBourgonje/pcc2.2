@@ -414,25 +414,6 @@
         <int_arg_token id="58" token="Militärschläge"/>
         <int_arg_token id="59" token="breitmachen"/>
         <int_arg_token id="60" token=","/>
-        <int_arg_token id="61" token="liegt"/>
-        <int_arg_token id="62" token="das"/>
-        <int_arg_token id="63" token="nicht"/>
-        <int_arg_token id="64" token="zuletzt"/>
-        <int_arg_token id="65" token="daran"/>
-        <int_arg_token id="66" token=","/>
-        <int_arg_token id="67" token="dass"/>
-        <int_arg_token id="68" token="Freiheit"/>
-        <int_arg_token id="69" token="und"/>
-        <int_arg_token id="70" token="Toleranz"/>
-        <int_arg_token id="71" token="zu"/>
-        <int_arg_token id="72" token="den"/>
-        <int_arg_token id="73" token="tief"/>
-        <int_arg_token id="74" token="verwurzelten"/>
-        <int_arg_token id="75" token="Grundwerten"/>
-        <int_arg_token id="76" token="unserer"/>
-        <int_arg_token id="77" token="Gesellschaft"/>
-        <int_arg_token id="78" token="gehören"/>
-        <int_arg_token id="79" token=":"/>
       </int_arg_tokens>
     </relation>
     <relation relation_id="11" pdtb3_sense="Expansion.Conjunction" type="explicit">

@@ -266,30 +266,6 @@
         <int_arg_token id="82" token=":"/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="5" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
-      <connective_tokens>
-        <connective_token id="104" token="Doch"/>
-      </connective_tokens>
-      <ext_arg_tokens>
-        <ext_arg_token id="32" token="Doch"/>
-        <ext_arg_token id="33" token="unterm"/>
-        <ext_arg_token id="34" token="Strich"/>
-        <ext_arg_token id="35" token="stehen"/>
-        <ext_arg_token id="36" token="Brandenburgs"/>
-        <ext_arg_token id="37" token="Schulen"/>
-        <ext_arg_token id="38" token="ganz"/>
-        <ext_arg_token id="39" token="gut"/>
-        <ext_arg_token id="40" token="da"/>
-        <ext_arg_token id="41" token="."/>
-      </ext_arg_tokens>
-      <int_arg_tokens>
-        <int_arg_token id="105" token="auch"/>
-        <int_arg_token id="106" token="Brandenburg"/>
-        <int_arg_token id="107" token="muss"/>
-        <int_arg_token id="108" token="aufpassen"/>
-        <int_arg_token id="109" token="."/>
-      </int_arg_tokens>
-    </relation>
     <relation relation_id="8" pdtb3_sense="Contingency.Condition.Arg2-as-cond" type="explicit">
       <connective_tokens>
         <connective_token id="110" token="Wenn"/>

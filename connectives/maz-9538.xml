@@ -440,23 +440,23 @@
         <int_arg_token id="133" token="."/>
       </int_arg_tokens>
       <ext_arg_tokens>
-        <ext_arg_token id="103" token="Mit"/>
-        <ext_arg_token id="104" token="einigem"/>
-        <ext_arg_token id="105" token="Recht"/>
-        <ext_arg_token id="106" token="kann"/>
-        <ext_arg_token id="107" token="man"/>
-        <ext_arg_token id="108" token="aber"/>
-        <ext_arg_token id="109" token="auch"/>
-        <ext_arg_token id="110" token="sagen"/>
-        <ext_arg_token id="111" token=","/>
-        <ext_arg_token id="112" token="dass"/>
-        <ext_arg_token id="113" token="er"/>
-        <ext_arg_token id="114" token="mit"/>
-        <ext_arg_token id="115" token="seinem"/>
-        <ext_arg_token id="116" token="Amt"/>
-        <ext_arg_token id="117" token="gewachsen"/>
-        <ext_arg_token id="118" token="ist"/>
-        <ext_arg_token id="119" token="."/>
+	<token id="103" token="Mit"/>
+	<token id="104" token="einigem"/>
+	<token id="105" token="Recht"/>
+	<token id="106" token="kann"/>
+	<token id="107" token="man"/>
+	<token id="108" token="aber"/>
+	<token id="109" token="auch"/>
+	<token id="110" token="sagen"/>
+	<token id="111" token=","/>
+	<token id="112" token="dass"/>
+	<token id="113" token="er"/>
+	<token id="114" token="mit"/>
+	<token id="115" token="seinem"/>
+	<token id="116" token="Amt"/>
+	<token id="117" token="gewachsen"/>
+	<token id="118" token="ist"/>
+	<token id="119" token="."/>
       </ext_arg_tokens>
     </relation>
     <relation relation_id="11" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">

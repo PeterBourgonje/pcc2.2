@@ -189,40 +189,6 @@
     <token id="185">.</token>
   </tokens>
   <relations>
-    <relation relation_id="1" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
-      <connective_tokens>
-        <connective_token id="96" token="jedenfalls"/>
-      </connective_tokens>
-      <int_arg_tokens>
-        <int_arg_token id="88" token="Seinen"/>
-        <int_arg_token id="89" token="Zuhörern"/>
-        <int_arg_token id="90" token="in"/>
-        <int_arg_token id="91" token="der"/>
-        <int_arg_token id="92" token="Aula"/>
-        <int_arg_token id="93" token="des"/>
-        <int_arg_token id="94" token="Oberstufenzentrums"/>
-        <int_arg_token id="95" token="kamen"/>
-        <int_arg_token id="97" token="alle"/>
-        <int_arg_token id="98" token="guten"/>
-        <int_arg_token id="99" token="Gefühle"/>
-        <int_arg_token id="100" token="abhanden"/>
-        <int_arg_token id="101" token=","/>
-      </int_arg_tokens>
-      <ext_arg_tokens>
-        <ext_arg_token id="76" token="Er"/>
-        <ext_arg_token id="77" token="selbst"/>
-        <ext_arg_token id="78" token="will"/>
-        <ext_arg_token id="79" token="von"/>
-        <ext_arg_token id="80" token="Beginn"/>
-        <ext_arg_token id="81" token="an"/>
-        <ext_arg_token id="82" token="ein"/>
-        <ext_arg_token id="83" token="gutes"/>
-        <ext_arg_token id="84" token="Gefühl"/>
-        <ext_arg_token id="85" token="gehabt"/>
-        <ext_arg_token id="86" token="haben"/>
-        <ext_arg_token id="87" token="."/>
-      </ext_arg_tokens>
-    </relation>
     <relation relation_id="2" pdtb3_sense="Expansion.Manner.Arg2-as-manner" type="explicit">
       <connective_tokens>
         <connective_token id="104" token="ohne"/>

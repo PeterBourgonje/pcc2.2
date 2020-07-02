@@ -217,6 +217,12 @@
         <connective_token id="43" token="Bloß"/>
       </connective_tokens>
       <ext_arg_tokens>
+	<ext_arg_token id="30" token="Die"/>
+	<ext_arg_token id="31" tokn="Polizei"/>
+	<ext_arg_token id="32" token="weiß"/>
+	<ext_arg_token id="33" token="es"/>
+	<ext_arg_token id="34" token="besser"/>
+	<ext_arg_token id="35" token="."/>
         <ext_arg_token id="36" token="Und"/>
         <ext_arg_token id="37" token="mancher"/>
         <ext_arg_token id="38" token="Rektor"/>

@@ -186,7 +186,7 @@
     <token id="182">.</token>
   </tokens>
   <relations>
-    <relation relation_id="3" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
+    <relation relation_id="3" pdtb3_sense="Contingency.Cause.Reason" type="explicit">
       <connective_tokens>
         <connective_token id="83" token="doch"/>
       </connective_tokens>

@@ -193,7 +193,7 @@
     <token id="189">.</token>
   </tokens>
   <relations>
-    <relation relation_id="1" pdtb3_sense="Comparison.Contrast" type="explicit">
+    <relation relation_id="1" pdtb3_sense="Expansion.Conjunction" type="explicit">
       <connective_tokens>
         <connective_token id="44" token="Zum"/>
         <connective_token id="45" token="einen"/>

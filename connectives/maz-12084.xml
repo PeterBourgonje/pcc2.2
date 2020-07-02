@@ -377,7 +377,7 @@
         <int_arg_token id="107" token="."/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="13" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
+    <relation relation_id="13" pdtb3_sense="Contingency.Cause.Reason" type="explicit">
       <connective_tokens>
         <connective_token id="110" token="doch"/>
       </connective_tokens>
@@ -723,29 +723,39 @@
         <connective_token id="175" token="Freilich"/>
       </connective_tokens>
       <int_arg_tokens>
-        <int_arg_token id="161" token="Da"/>
-        <int_arg_token id="162" token="stellt"/>
-        <int_arg_token id="163" token="sich"/>
-        <int_arg_token id="164" token="die"/>
-        <int_arg_token id="165" token="Frage"/>
-        <int_arg_token id="166" token=","/>
-        <int_arg_token id="167" token="wer"/>
-        <int_arg_token id="168" token="es"/>
-        <int_arg_token id="169" token="hier"/>
-        <int_arg_token id="170" token="wem"/>
-        <int_arg_token id="171" token="recht"/>
-        <int_arg_token id="172" token="machen"/>
-        <int_arg_token id="173" token="will"/>
-        <int_arg_token id="174" token="."/>
+        <int_arg_token id="176" token=","/>
+        <int_arg_token id="177" token="Außenstehende"/>
+        <int_arg_token id="178" token="haben"/>
+        <int_arg_token id="179" token="gut"/>
+        <int_arg_token id="180" token="reden"/>
+        <int_arg_token id="181" token="."/>
       </int_arg_tokens>
       <ext_arg_tokens>
-        <ext_arg_token id="175" token="Freilich"/>
-        <ext_arg_token id="176" token=","/>
-        <ext_arg_token id="177" token="Außenstehende"/>
-        <ext_arg_token id="178" token="haben"/>
-        <ext_arg_token id="179" token="gut"/>
-        <ext_arg_token id="180" token="reden"/>
-        <ext_arg_token id="181" token="."/>
+	<ext_arg_token id="182" token="Doch"/>
+        <ext_arg_token id="183" token="wer"/>
+        <ext_arg_token id="184" token="sich"/>
+        <ext_arg_token id="185" token="wählen"/>
+        <ext_arg_token id="186" token="lässt"/>
+        <ext_arg_token id="187" token=","/>
+        <ext_arg_token id="188" token="sollte"/>
+        <ext_arg_token id="189" token="die"/>
+        <ext_arg_token id="190" token="Courage"/>
+        <ext_arg_token id="191" token="aufbringen"/>
+        <ext_arg_token id="192" token=","/>
+        <ext_arg_token id="193" token="unpopuläre"/>
+        <ext_arg_token id="194" token="Entscheidungen"/>
+        <ext_arg_token id="195" token="zu"/>
+        <ext_arg_token id="196" token="treffen"/>
+        <ext_arg_token id="197" token=","/>
+        <ext_arg_token id="198" token="ohne"/>
+        <ext_arg_token id="199" token="sich"/>
+        <ext_arg_token id="200" token="ein"/>
+        <ext_arg_token id="201" token="schlechtes"/>
+        <ext_arg_token id="202" token="Gewissen"/>
+        <ext_arg_token id="203" token="einreden"/>
+        <ext_arg_token id="204" token="zu"/>
+        <ext_arg_token id="205" token="lassen"/>
+        <ext_arg_token id="206" token="."/>
       </ext_arg_tokens>
     </relation>
   </relations>

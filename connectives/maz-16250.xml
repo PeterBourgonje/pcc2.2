@@ -204,7 +204,7 @@
     <token id="200">.</token>
   </tokens>
   <relations>
-    <relation relation_id="2" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
+    <relation relation_id="2" pdtb3_sense="Contingency.Cause.Reason" type="explicit">
       <connective_tokens>
         <connective_token id="27" token="jedenfalls"/>
       </connective_tokens>

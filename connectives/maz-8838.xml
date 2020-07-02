@@ -462,37 +462,6 @@
         <int_arg_token id="179" token="werden"/>
       </int_arg_tokens>
     </relation>
-    <relation relation_id="11" pdtb3_sense="Comparison.Concession.Arg2-as-denier" type="explicit">
-      <connective_tokens>
-        <connective_token id="137" token="jedenfalls"/>
-      </connective_tokens>
-      <ext_arg_tokens>
-        <ext_arg_token id="120" token="Vielleicht"/>
-        <ext_arg_token id="121" token="kommen"/>
-        <ext_arg_token id="122" token="ja"/>
-        <ext_arg_token id="123" token="jetzt"/>
-        <ext_arg_token id="124" token="nach"/>
-        <ext_arg_token id="125" token="den"/>
-        <ext_arg_token id="126" token="Herbstferien"/>
-        <ext_arg_token id="127" token="noch"/>
-        <ext_arg_token id="128" token="einige"/>
-        <ext_arg_token id="129" token="Münzen"/>
-        <ext_arg_token id="130" token="zusammen"/>
-        <ext_arg_token id="131" token=","/>
-      </ext_arg_tokens>
-      <int_arg_tokens>
-        <int_arg_token id="132" token="in"/>
-        <int_arg_token id="133" token="der"/>
-        <int_arg_token id="134" token="zweiten"/>
-        <int_arg_token id="135" token="Box"/>
-        <int_arg_token id="136" token="ist"/>
-        <int_arg_token id="138" token="noch"/>
-        <int_arg_token id="139" token="Platz"/>
-        <int_arg_token id="140" token="dafür"/>
-        <int_arg_token id="141" token="vorhanden"/>
-        <int_arg_token id="142" token="."/>
-      </int_arg_tokens>
-    </relation>
     <relation relation_id="12" pdtb3_sense="Temporal.Asynchronous.Precedence" type="implicit">
       <connective_tokens>
         <implicit_connective></implicit_connective>
