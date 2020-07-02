@@ -218,7 +218,7 @@
       </connective_tokens>
       <ext_arg_tokens>
 	<ext_arg_token id="30" token="Die"/>
-	<ext_arg_token id="31" tokn="Polizei"/>
+	<ext_arg_token id="31" token="Polizei"/>
 	<ext_arg_token id="32" token="weiß"/>
 	<ext_arg_token id="33" token="es"/>
 	<ext_arg_token id="34" token="besser"/>
